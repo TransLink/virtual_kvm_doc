@@ -2,16 +2,17 @@
  * @Description: 
  * @Date: 2020-09-01 23:29:53
  * @LastEditors: CK.Zh
- * @LastEditTime: 2020-11-22 20:03:21
+ * @LastEditTime: 2020-11-22 20:23:49
  * @FilePath: \virtual_kvm_doc\README.md
 -->
 # Virtual KVM
 
-* KVM 即 Keyboard Video Mouse
+`一台电脑 + Virtual KVM` 可以让你如此大展身手：
 
-# virtual_kvm_doc
-
-软件下载链接 https://github.com/virtualkvm/virtual_kvm_doc/releases
+* 录制软件教程
+* 一台笔记本批量安装OS
+* 一台笔记本/台式电脑即可调试树莓派、Jetson Nano等
+* 在电脑上使用坚果手机TNT、三星手机PC模式、华为手机的PC模式
 
 
 # 接口及指示灯
@@ -33,3 +34,17 @@
 | STA3 | 预览画面（软件） | 主控机正在预览画面 | 主控机未在预览画面 | N/A                    |
 | ENUM | 键鼠枚举（软件） | 被控机已识别键鼠   | 被控机未识别键鼠   | N/A                    |
 | UP   | 键鼠通信（软件） | N/A                | N/A                | 键鼠数据已发送至被控机 |
+
+# 兼容平台
+
+| 操作系统  | 状态                          |
+|-------|-------------------------------|
+| Windows 10  | 已发布 |
+| Windows 7 | 已开发、未测试                  |
+| Ubuntu 20.04  | N/A              |
+| macOS | N/A                  |
+
+# 客户端下载
+
+ https://github.com/virtualkvm/virtual_kvm_doc/releases
+
