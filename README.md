@@ -2,7 +2,7 @@
  * @Description: 
  * @Date: 2020-09-01 23:29:53
  * @LastEditors: CK.Zh
- * @LastEditTime: 2020-11-22 19:55:00
+ * @LastEditTime: 2020-11-22 19:57:36
  * @FilePath: \virtual_kvm_doc\README.md
 -->
 # virtual_kvm_doc
@@ -16,7 +16,7 @@
 
 | 接口  | 功能                          | 连接至 |
 |-------|-------------------------------|--------|
-| HOST  | UVC视频数据输出、键鼠数据输入 | 主控机 |
+| HOST  | UVC视频数据输出 </br> 键鼠数据输入 | 主控机 |
 | SLAVE | 鼠键数据输出                  | 被控机 |
 | HDMI  | HDMI视频数据输入              | 被控机 |
 
