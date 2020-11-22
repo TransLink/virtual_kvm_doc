@@ -2,18 +2,34 @@
  * @Description: 
  * @Date: 2020-09-01 23:29:53
  * @LastEditors: CK.Zh
- * @LastEditTime: 2020-11-22 20:23:49
+ * @LastEditTime: 2020-11-22 21:30:03
  * @FilePath: \virtual_kvm_doc\README.md
 -->
 # Virtual KVM
 
-`一台电脑 + Virtual KVM` 可以让你如此大展身手：
+
+## 特性
+
+* USB typeC？ 简直标配，不值一提
+* 全平台免驱、即插即用
+* 可能是全球首款虚拟KVM
+* 能看会控
+
+## 场景
+
+> `一台电脑 + Virtual KVM` 可以让你如此大展身手：
 
 * 录制软件教程
-* 一台笔记本批量安装OS
-* 一台笔记本/台式电脑即可调试树莓派、Jetson Nano等
-* 在电脑上使用坚果手机TNT、三星手机PC模式、华为手机的PC模式
+* 批量安装计算机操系统
+* 树莓派、Jetson Nano等开源硬件调试
 
+（以下待验证）
+* Smartisan OS TNT
+* 三星手机PC模式
+* 华为手机PC模式
+* iOS设备投屏
+* 电视盒子
+* Switch
 
 # 接口及指示灯
 ![](img/virtual_kvm_interface.png)
@@ -43,6 +59,8 @@
 | Windows 7 | 已开发、未测试                  |
 | Ubuntu 20.04  | N/A              |
 | macOS | N/A                  |
+| Android | N/A                  |
+| iOS | N/A                  |
 
 # 客户端下载
 
