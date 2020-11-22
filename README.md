@@ -2,16 +2,20 @@
  * @Description: 
  * @Date: 2020-09-01 23:29:53
  * @LastEditors: CK.Zh
- * @LastEditTime: 2020-11-22 19:59:40
+ * @LastEditTime: 2020-11-22 20:03:21
  * @FilePath: \virtual_kvm_doc\README.md
 -->
+# Virtual KVM
+
+* KVM 即 Keyboard Video Mouse
+
 # virtual_kvm_doc
 
 软件下载链接 https://github.com/virtualkvm/virtual_kvm_doc/releases
 
 
 # 接口及指示灯
-![](imgs/virtual_kvm_interface.png)
+![](img/virtual_kvm_interface.png)
 
 
 | 接口  | 功能                          | 连接至 |
