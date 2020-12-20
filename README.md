@@ -64,5 +64,5 @@
 
 # 客户端下载
 
- https://github.com/virtualkvm/virtual_kvm_doc/releases
+ https://github.com/translink/virtual_kvm_doc/releases
 
