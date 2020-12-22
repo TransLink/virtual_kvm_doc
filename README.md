@@ -9,8 +9,6 @@
 
 ### 🛒购买直达：[淘宝店铺](http://store.trans.link/)
 
-
-
 ## 特性
 
 * USB typeC？ 简直标配，不值一提
@@ -34,7 +32,7 @@
 * 电视盒子
 * Switch
 
-# 接口及指示灯
+## 接口及指示灯
 ![](img/virtual_kvm_interface.png)
 
 
@@ -54,7 +52,7 @@
 | ENUM | 键鼠枚举（软件） | 被控机已识别键鼠   | 被控机未识别键鼠   | N/A                    |
 | UP   | 键鼠通信（软件） | N/A                | N/A                | 键鼠数据已发送至被控机 |
 
-# 兼容平台
+## 兼容平台
 
 | 操作系统  | 状态                          |
 |-------|-------------------------------|
@@ -65,7 +63,7 @@
 | Android | N/A                  |
 | iOS | N/A                  |
 
-# 客户端下载
+## 客户端下载
 
  https://github.com/translink/virtual_kvm_doc/releases
 
