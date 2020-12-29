@@ -9,6 +9,11 @@
 
 ### 🛒购买直达：[淘宝店铺](http://store.trans.link/)
 
+
+![](img/virtual_kvm_interface.png)
+![](img/virtual_kvm_interface_l.png)
+![](img/virtual_kvm_interface_r.png)
+
 ## 特性
 
 * USB typeC？ 简直标配，不值一提
@@ -32,8 +37,13 @@
 * 电视盒子
 * Switch
 
+## 快速开始
+
+1. 使用USB线连接`HOST`口到主机电脑
+2. 使用USB线连接`SLVAE`口到被控设备，使用HDMI线连接`HDMI`口到被控设备视频输出口
+3. 在主控电脑上打开`VirtualKVM APP`
+
 ## 接口及指示灯
-![](img/virtual_kvm_interface.png)
 
 
 | 接口  | 功能                          | 连接至 |
