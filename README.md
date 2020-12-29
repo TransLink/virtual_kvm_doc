@@ -68,7 +68,7 @@
 |-------|-------------------------------|
 | Windows 10  | 已发布 |
 | Windows 7 | 已开发、未测试                  |
-| Ubuntu 20.04  | N/A              |
+| Ubuntu 20.04  | 规划中              |
 | macOS | N/A                  |
 | Android | N/A                  |
 | iOS | N/A                  |
