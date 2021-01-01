@@ -9,10 +9,10 @@
 
 ### 🛒购买直达：[淘宝店铺](http://store.trans.link/)
 
+<video width="720" height="303" loop="loop" controls="controls" autoplay="autoplay"> 
+<source src="media/virtual_kvm_3d_preview.mp4" type="video/mp4">
+</video>
 
-![](img/virtual_kvm_interface.png)
-![](img/virtual_kvm_interface_l.png)
-![](img/virtual_kvm_interface_r.png)
 
 ## 特性
 
