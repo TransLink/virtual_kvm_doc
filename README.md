@@ -2,7 +2,7 @@
  * @Description: 
  * @Date: 2020-09-01 23:29:53
  * @LastEditors: CK.Zh
- * @LastEditTime: 2020-11-22 21:30:03
+ * @LastEditTime: 2021-01-09 00:41:21
  * @FilePath: \virtual_kvm_doc\README.md
 -->
 # Virtual KVM
@@ -20,6 +20,8 @@
 * 全平台免驱、即插即用
 * 可能是全球首款虚拟KVM
 * 能看会控
+* 玩转树莓派，何必再需~~键盘、鼠标、显示器~~
+* <font size=2>身材mini</font>，<font size=4>功能MAX</font>
 
 ## 场景
 
